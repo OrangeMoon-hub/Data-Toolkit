@@ -1,4 +1,4 @@
-# 名创数据处理工具箱
+# 数据处理工具箱
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
