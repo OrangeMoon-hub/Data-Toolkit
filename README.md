@@ -1,4 +1,4 @@
-# 铭创数据处理工具箱
+# 数据处理工具箱
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -116,7 +116,7 @@ Python 3.8+ 均可运行，推荐使用 Jupyter Notebook / JupyterLab。
 ### 项目结构
 
 ```
-mingchuang/
+data-toolkit/
 ├── wuliu_merge.ipynb        # 物流绩效合并
 ├── dwd156_extract.ipynb     # 离职数据拆分
 ├── requirements.txt         # 依赖清单
